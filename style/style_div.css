@@ -158,8 +158,26 @@
 }
 
 .san-blocFour-two {
+    display: flex;
+    justify-content: center;
+}
+
+.image-one {
 
 }
+
+.image-two {
+
+}
+
+.image-three {
+
+}
+
+.image-four {
+
+}
+
 /* end 4*/
 
 /* Run 5*/
