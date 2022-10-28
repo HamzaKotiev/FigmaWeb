@@ -112,3 +112,104 @@
 }
 
 /* end */
+
+/* ocasions-minen-min run */
+.ocasions-minen-mintext-one {
+    font-size: 24px;
+    font-family: 'Gilroy';
+    position: relative;
+    top: 24px;
+    left: 24px;
+}
+
+.ocasions-minen-mintext-two {
+    font-family: 'Gilroy';
+    font-size: 20px;
+    position: relative;
+    top: 95px;
+    left: 24px;
+}
+/* end */
+
+/* san-blocFive-one run */
+.san-blocFivOne-textone{
+    color:  rgba(0, 0, 0, 1);
+    font-size: 32px;
+    line-height: 45px;
+    font-weight: bold;
+    font-family: 'Gilroy';
+}
+
+
+.san-blocFivOne-texttwo{
+    font-size: 32px;
+    line-height: 45px;
+    font-family: 'Gilroy';
+}
+
+/* end */
+
+/* san-blocFive-two run */
+
+.san-blocFiveTwoGift-textone{
+    font-family: 'Gilroy';
+    color:  rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+
+}
+
+
+.san-blocOneTreeGift-texttwo {
+    color: rgba(35, 31, 32, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+}
+
+.san-blocSixDivoneOne-textthree{
+    color: rgba(35, 31, 32, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+}
+/* end */
+
+
+
+
+/* rod-bloc-six run  */
+
+
+.san-blocSixDivoneOne-textone{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+
+
+}
+.san-blocSixDivoneOne-texttwo{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+    text-transform: uppercase;
+
+}
+.san-blocSixDivoneOne-textthree{
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Gilroy';
+
+}
+
+.san-blocSixDivtwoBox-textone {
+    font-family: 'Gilroy';
+    font-weight: bold;
+
+}
+
+.san-blocSixDivtwoBox-textotwo {
+    font-family: 'Gilroy';
+
+}
+
+.san-blocSixDivtwoBox-textothree {
+    font-family: 'Gilroy';
+
+}
+
+/* end */
